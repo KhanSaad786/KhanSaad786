@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Student at Guru Nanak College
+
 <!--
 **KhanSaad786/KhanSaad786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
